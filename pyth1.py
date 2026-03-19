@@ -1,1 +1,1 @@
-print ("I am so smart")
+print ("I am so dumb")
